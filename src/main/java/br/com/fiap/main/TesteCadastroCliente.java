@@ -9,7 +9,7 @@ import br.com.com.fiap.bo.ClienteBO;
 import br.com.fiap.beans.Cliente;
 import br.com.fiap.conexoes.ConexaoFactory;
 
-public class TesteEnderecoClienteBD {
+public class TesteCadastroCliente {
     public static void main(String[] args) {
         Connection connection = null;
         try {
